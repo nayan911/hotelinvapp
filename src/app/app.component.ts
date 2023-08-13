@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'hotelinvapp';
+
+  // switch case
+  // role='Admin';
 }
