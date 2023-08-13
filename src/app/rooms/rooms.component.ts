@@ -17,14 +17,6 @@ export class RoomsComponent {
           availableRooms: 10,
           bookedRooms:5,
     };
-    // constructor() {
-    //   this.rooms= [
-    //     {
-    //       availableRooms: 10,
-    //       bookedRooms:1,
-    //     }
-    //   ]
-    // }
 
     roomList: RoomList[] = [];
 
